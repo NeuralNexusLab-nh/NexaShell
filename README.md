@@ -15,13 +15,13 @@ Administrator privileges are usually not required.
 #### Shutdown
 
 ```powershell
-irm "https://nexashell.zone.id/windows/sys/shutdown.ps1" | iex
+irm "http://nexashell.zone.id/windows/sys/shutdown.ps1" | iex
 ```
 
 #### Reboot
 
 ```powershell
-irm "https://nexashell.zone.id/windows/sys/reboot.ps1" | iex
+irm "http://nexashell.zone.id/windows/sys/reboot.ps1" | iex
 ```
 
 ---
@@ -35,7 +35,7 @@ Run them in **PowerShell as Administrator**.
 #### Block Web Access
 
 ```powershell
-irm "https://nexashell.zone.id/windows/web/block.ps1" | iex
+irm "http://nexashell.zone.id/windows/web/block.ps1" | iex
 ```
 
 #### Unblock Web Access
