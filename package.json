@@ -1,0 +1,12 @@
+{
+  "name": "nexashell",
+  "version": "1.0.0",
+  "description": "NexaShell is a remote shell controller.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
